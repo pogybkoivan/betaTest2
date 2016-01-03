@@ -1,0 +1,20 @@
+﻿Build started 02.01.2016 19:47:16.
+     1>Project "C:\Users\user\Documents\Visual Studio 2013\Projects\lb5\lb5\lb5.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp matrix.cpp
+         matrix.cpp
+     1>c:\users\user\documents\visual studio 2013\projects\lb5\lb5\matrix.cpp(47): warning C4172: returning address of local variable or temporary
+     1>c:\users\user\documents\visual studio 2013\projects\lb5\lb5\matrix.cpp(48): warning C4172: returning address of local variable or temporary
+     1>c:\users\user\documents\visual studio 2013\projects\lb5\lb5\matrix.cpp(49): warning C4172: returning address of local variable or temporary
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Documents\Visual Studio 2013\Projects\lb5\Debug\lb5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\user\Documents\Visual Studio 2013\Projects\lb5\Debug\lb5.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Documents\Visual Studio 2013\Projects\lb5\Debug\lb5.lib" /MACHINE:X86 Debug\matrix.obj
+         Debug\Source.obj
+         lb5.vcxproj -> C:\Users\user\Documents\Visual Studio 2013\Projects\lb5\Debug\lb5.exe
+     1>Done Building Project "C:\Users\user\Documents\Visual Studio 2013\Projects\lb5\lb5\lb5.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.50

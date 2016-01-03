@@ -1,0 +1,14 @@
+﻿Build started 22.11.2015 21:27:35.
+     1>Project "C:\Users\user\Documents\Visual Studio 2013\Projects\progonka\progonka\progonka.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt progonka.cpp
+         progonka.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Documents\Visual Studio 2013\Projects\progonka\Debug\progonka.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\user\Documents\Visual Studio 2013\Projects\progonka\Debug\progonka.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Documents\Visual Studio 2013\Projects\progonka\Debug\progonka.lib" /MACHINE:X86 Debug\progonka.obj
+         Debug\Source.obj
+         progonka.vcxproj -> C:\Users\user\Documents\Visual Studio 2013\Projects\progonka\Debug\progonka.exe
+     1>Done Building Project "C:\Users\user\Documents\Visual Studio 2013\Projects\progonka\progonka\progonka.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.98
